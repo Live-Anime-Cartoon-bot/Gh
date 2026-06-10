@@ -1,10 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77875.jpg",24/7 LITTLE SINGHAM
+https://ksr.indevs.in/m3u/?stream=481519
 #EXTINF:-1 tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/71810.png",POGO
 https://ksrtech.fun/xtra.php/67125.ts
 #EXTINF:-1 tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/71811.png",SONIC
 https://ksr.indevs.in/m3u/?stream=475138
-#EXTINF:-1 tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77875.jpg",24/7 LITTLE SINGHAM
-https://ksr.indevs.in/m3u/?stream=481519
 #EXTINF:-1 tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/71803.jpeg",CARTOON NETWORK FHD
 https://ksr.indevs.in/m3u/?stream=475130
 #EXTINF:-1 tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/71805.png",DISCOVERY KIDS
