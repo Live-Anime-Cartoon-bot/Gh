@@ -1,0 +1,19 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="481519" tvg-name="24/7 LITTLE SINGHAM" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77875.jpg" group-title="(KSR) HINDI | KIDS",24/7 LITTLE SINGHAM
+https://ksr.indevs.in/m3u/?stream=481519
+
+#EXTINF:-1 tvg-name="POGO - TATAPLAY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxXfJy6gPnWSIFB3JYuZDvbXOgtFG2lq3MeDq4DTeFHw&s=10" group-title="(KSR) HINDI | KIDS",POGO - TATAPLAY
+http://66.102.126.10:8000/play/a00d/index.m3u8
+
+#EXTINF:-1 tvg-name="ETV BAL BHARAT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6A3p3bZS0TJ9NIjXkP73_xsywSWwfHyrjFVwIGlyBmg&s" group-title="(KSR) HINDI | KIDS",ETV BAL BHARAT
+https://ksrtech.fun/xtra.php/251545.ts
+
+#EXTINF:-1 tvg-name="CARTOON NETWORK - TATAPLAY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTysDnV82by0f0NJY-f7RrgBjALzlcqcQWbDSM-_bisg&s=10" group-title="(KSR) HINDI | KIDS",CARTOON NETWORK - TATAPLAY
+http://66.102.126.10:8000/play/a011/index.m3u8
+
+#EXTINF:-1 tvg-name="NICK - TATAPLAY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCytv4nwksEo4_zwFCGxsNXaC6_LN5dIkbk7XINb6qtA&s=10" group-title="(KSR) HINDI | KIDS",NICK - TATAPLAY
+http://66.102.126.10:8000/play/a00w/index.m3u8
+
+#EXTINF:-1 tvg-name="NICK JR. - TATAPLAY" tvg-logo="https://play-lh.googleusercontent.com/0tYWXPH_lwaC4C-l9fjpS5zKCVNkdRzxbVLt7BBdDso8Q11Wh38qEO0CyBNjEeGvkA" group-title="(KSR) HINDI | KIDS",NICK JR. - TATAPLAY
+http://66.102.126.10:8000/play/a00m/index.m3u8
